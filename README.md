@@ -80,3 +80,6 @@ Reference Books
 2. Thomas DC. Statistical methods in genetic epidemiology. Oxford University Press; 2004. 458 p.
 3. Ziegler A, König IR. A statistical approach to genetic epidemiology: Concepts and Applications. John Wiley & Sons; 2010. 522 p.
 
+Handouts
+-----------
+Please see this (link)[https://www.dropbox.com/sh/2uihuw7taej6lwb/AABqngbn71SeymYEgyyD9c4aa?dl=0]
