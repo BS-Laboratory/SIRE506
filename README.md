@@ -10,10 +10,10 @@ Academic Year: 2018
 -   [Github Repository](https://github.com/si-medbif/SIRE506)
 
 
-DATE | TIME | Format | Topic | Lecturer
-----------|---------|-----------|-----------|----------
-7/1/19 | 1-5pm | Lecture | Complex Genetic Diseases in the Population | BS
-14/1/19 | 1-3pm | Lecture | Study designs in epidemiology and genetics | BS
+DATE | TIME | Format | Topic | Lecturer | Assignment |
+----------|---------|-----------|-----------|----------|
+7/1/19 | 1-3pm | Lecture | Complex Genetic Diseases in the Population | BS |
+14/1/19 | 1-3pm | Lecture | Study designs in epidemiology and genetics | BS | [Assignment 1 -- Due 23/1/2019](assignment/assignment01.md)
 14/1/19 | 3-5pm | Lab | Designing genetic studies | BS
 21/1/19 | 1-3pm | Lecture | Data management, data wrangling, EDA | DM
 21/1/19 | 3-5pm | Lab | Introduction to R | DM
@@ -82,4 +82,4 @@ Reference Books
 
 Handouts
 -----------
-Please see this (link)[https://www.dropbox.com/sh/2uihuw7taej6lwb/AABqngbn71SeymYEgyyD9c4aa?dl=0]
+Please see this [link](https://www.dropbox.com/sh/2uihuw7taej6lwb/AABqngbn71SeymYEgyyD9c4aa?dl=0)
