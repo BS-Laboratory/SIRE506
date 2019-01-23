@@ -13,7 +13,7 @@ The inclusion criteria is the population from Great Britain. There are 6 exclusi
 3. Was the age distribution of each disease group comparable to the age distribution of the control groups?
 	1.  What statistical test can you use to compare the age distribution between the two groups?
 	```
-	Since, there is no provided statistical measurement for comparing the significance between control and disease group. So, it depends on the distribution (between normal and other kind of distributions).
+	Unpaired t-test might do the trick because each groups didn't come from the same source. 
 	```
 
 	2.  Which disease groups had significantly different age of distribution than controls? Also provide the statistical evidence for the comparison.
