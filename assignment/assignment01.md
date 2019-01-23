@@ -1,25 +1,21 @@
 Assignment 1
 ============
 
- 
 
 Instruction
 -----------
 
 Use the information from the lecture, the WTCCC’s genome-wide association study
-paper: \<https://www.nature.com/articles/nature05911 \>to answer the following
-questions. **Please also provide the specific location of the information in the
+paper: (https://www.nature.com/articles/nature05911)[https://www.nature.com/articles/nature05911] to answer the following questions. **Please also provide the specific location of the information in the
 paper, such as the section and page number.**
 
  
-
 Submission
 ----------
 
 -   Due Date: 23-Jan-2019
 
  
-
 Questions
 ---------
 
