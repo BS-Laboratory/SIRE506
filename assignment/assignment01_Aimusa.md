@@ -76,7 +76,7 @@ Case-control study (from abstract)
 
 5.  What is the approach that we might be able to control those confounding
     factors?
-We can control confounding factors from these methods include
+	We can control confounding factors from these methods include
 	- Randomization balances both measured and unmeasured characteristics
 	- Stratification involves dividing the study population into strata, and then weighing and combining the stratum-specific results.
 	- Matching to evaluate the effect of treatment by comparing the treated and non-treated units.
