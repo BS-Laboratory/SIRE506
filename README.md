@@ -31,10 +31,10 @@ DATE      | TIME    | Format    | Topic     | Lecturer | Assignment |
 4/3/19 | 3-5pm | Lab | Chi square, trend-test, logistic regression | PC||
 11/3/19 | 8-10am | Lecture | Genome-wide association study | JE||
 11/3/19 | 10-12pm | Lab | Analysis & Visualization | JE||
-18/3/19 | 8-10am | Lecture | Confounders & Population Substructure | JE||
-18/3/19 | 10-12pm | Lab | MDR and PCA | JE||
-25/3/19 | 1-3pm | Lecture | Mendelian randomization & meta-analysis | PC||
-25/3/19 | 3-5pm | Lab | Meta-analysis and MR 3-5pm | PC||
+18/3/19 | 1-3pm | Lecture |Mendelian randomization & meta-analysis | PC||
+18/3/19 | 3-5pm | Lab |Meta-analysis and MR 3-5pm | PC||
+25/3/19 | 8-10am | Lecture | Confounders & Population Substructure | JE||
+25/3/19 | 10-12pm | Lab | MDR and PCA | JE |
 1/4/19 | 1-3pm | Lecture | Genetic studies using next-generation sequencing technology | HG||
 1/4/19 | 3-5pm | Lab | Variant prioritization software | HG||
 22/4/19 | 1-3pm | Lecture | Analysis of transcriptome data | VC||
