@@ -25,10 +25,10 @@ Case-control study (from abstract)
 2.  What is the inclusion and exclusion criteria of the study population? Choose
     two diseases mentioned in the paper and provide the detail of inclusion &
     exclusion criteria.
-    ###### The study population 
+    ##### The study population 
     (from Samples and experimental analyses; page 661-2 and Supplementary Table 4 Exclusion summary by collection; page 31)
 - Inclusion criteria
-    1.  Living within England, Scotland and Wales (???Great Britain???) and 
+    1.  Living within England, Scotland and Wales (Great Britain) and 
     2. The vast majority had self-identified themselves as white Europeans
 - Exclusion criteria
     1. SNP call rate < 97% (missingness) or
@@ -37,15 +37,15 @@ Case-control study (from abstract)
     4. Individuals identified as having recent non-European ancestry by the Multidimensional Scaling analysis or
     5. Duplicates (the copy with more missing data was removed) or
     6. Individuals with too much IBS sharing (>86%); likely relatives 
-    ###### Coronary Artery Disease
+    ##### Coronary Artery Disease
     (from Methods CAD phenotype description in Methods)
     - CAD cases had a validated history of either myocardial infarction or coronary revascularization (coronary artery bypass surgery or percutaneous coronary angioplasty) before their 66th birthday. 
     - Verification of the history of CAD was required either from hospital records or the primary care physician. 
     - Recruitment was carried out on a national basis in the UK through a direct approach to the public via (1) the media and (2) mailing all general practices (family physicians) with information about the study, as previously described. 
     -   Only one subject from each family was included in the present study.
-    ###### Hypertension 
+    ##### Hypertension 
     (from Methods HT phenotype description)
-        - HT cases comprised severely hypertensive probands ascertained from families with multiplex affected sibships or as parent???offspring trios. They were of white British ancestry (up to level of grand-parents) and were recruited from the Medical Research Council General Practice Framework and other primary care practices in the UK. 
+    - HT cases comprised severely hypertensive probands ascertained from families with multiplex affected sibships or as parent???offspring trios. They were of white British ancestry (up to level of grand-parents) and were recruited from the Medical Research Council General Practice Framework and other primary care practices in the UK. 
     - Inclusion criteria: Each case had a history of hypertension diagnosed before 60 years of age, with confirmed blood pressure recordings corresponding to seated levels 150/100 mmHg (if based on one reading), or the mean of 3 readings greater than 145/95 mmHg. 
     - Excluded criteria: Self-reportedly consumed 21 units of alcohol per week and diabetes, intrinsic renal disease, have a history of secondary hypertension or co-existing illness.
 
