@@ -70,9 +70,9 @@ Case-control study (from abstract)
         
 4.  Besides age, were there any other confounding factor(s) in the design of
     this study?
-- Sex because in some disease such as CAD, we found this disease in male more than female. Therefore, if the study include male more than female, it may be found patients who has CAD more than expected.
-- Demographic because genetic isolation may be happened in some region. 
-- Life styles or environments such as smoking or alcohol use, medication history, exercise, diet because all of this can be risk factors to develop diseases.
+	- Sex because in some disease such as CAD, we found this disease in male more than female. Therefore, if the study include male more than female, it may be found patients who has CAD more than expected.
+	- Demographic because genetic isolation may be happened in some region. 
+	- Life styles or environments such as smoking or alcohol use, medication history, exercise, diet because all of this can be risk factors to develop diseases.
 
 5.  What is the approach that we might be able to control those confounding
     factors?
