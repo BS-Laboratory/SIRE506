@@ -29,8 +29,8 @@ Questions
     
     The study population (from Samples and experimental analyses; page 661-2 and Supplementary Table 4 Exclusion summary by collection; page 31)
     Inclusion criteria
-    1. Living within England, Scotland and Wales (‘Great Britain’) and
-    2. The vast majority had self-identified themselves as white Europeans
+    - Living within England, Scotland and Wales (‘Great Britain’) and
+    - The vast majority had self-identified themselves as white Europeans
     Exclusion criteria
     1. SNP call rate < 97% (missingness) or
     2. Heterozygosity > 30% or < 23% across all SNPs or
