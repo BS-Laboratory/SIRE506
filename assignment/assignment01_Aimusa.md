@@ -45,7 +45,7 @@ Questions
       - Recruitment was carried out on a national basis in the UK through a direct approach to the public via (1) the media and (2) mailing all general practices (family physicians) with information about the study, as previously described. 
       - Only one subject from each family was included in the present study.
         
-       Hypertension (from Methods HT phenotype description)
+	Hypertension (from Methods HT phenotype description)
       - HT cases comprised severely hypertensive probands ascertained from families with multiplex affected sibships or as parent–offspring trios. They were of white British ancestry (up to level of grand-parents) and were recruited from the Medical Research Council General Practice Framework and other primary care practices in the UK. 
       - Inclusion criteria: Each case had a history of hypertension diagnosed before 60 years of age, with confirmed blood pressure recordings corresponding to seated levels 150/100 mmHg (if based on one reading), or the mean of 3 readings greater than 145/95 mmHg. 
       - Excluded criteria: Self-reportedly consumed 21 units of alcohol per week and, Diabetes, Intrinsic renal disease, A history of secondary hypertension or co-existing illness
