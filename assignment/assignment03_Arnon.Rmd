@@ -1,0 +1,89 @@
+---
+title: "Assignment 3"
+author: "Arnon Puitrakul"
+date: "09/02/2019"
+output: pdf_document
+---
+
+1. For a biallelic variant rs921122(C/T) following Hardy- Weinberg Equilibrium with a minor allele frequency of 0.038, what is the expected allele frequency in the subsequent generation?
+
+From this question we got *2pq=0.038*. We also know that *q=1-p* from the formular. First step, we solved for p by using the following equation.
+
+\[2p (1-p) = 0.038\]
+
+\[p^2+2p-0.038=0\]
+
+\[p=0.018823\]
+
+Next step, we used *p* from previous step to solve for *q* by using the following steps.
+
+\[q=1-p\]
+
+\[q=1-0.018823\]
+
+\[q=0.981177\]
+
+The last step is finding *2qp* by using the following steps.
+
+\[2pq = 2 * 0.018823 * 0.981177 \]
+
+\[2qp = 0.03693738934\]
+
+2. Marie is getting married tomorrow, at an outdoor ceremony in the desert. In recent years, it has rained only 5 days each year \[(A_1)\]. Unfortunately, the weatherman has predicted rain for tomorrow. When it actually rains, the weatherman correctly forecasts rain 90% of the time. When it doesn't rain, he incorrectly forecasts rain 10% of the time.What is the probability that it will rain on the day of Marie's wedding?
+
+According to the problem, there are 5 days that rain in the recent year. Here is the way to calculate to probability that it will rain.
+\[P(A_1) = 5/365\]
+
+\[P(A_1) = 0.014\]
+
+In the other hand, the probability that it would not rain is the contrast of the change of having rain.
+
+\[P(A_2)=1-P(A_1)\]
+
+\[P(A_2)=1-0.014\]
+
+\[P(A_2)=0.986\]
+
+According to the problem, it shows that the change of weatherman correctly forecast the rain is 90% of the time. And if it did not rain, the change that they might incorrectly forecast as a rain is 10%. So, we can translate into the mathematics equation in the following.
+
+\[P(B|A_1)=0.9\]
+
+\[P(B|A_2)=0.1\]
+
+The question want the change of raining in the next day, so we can uses the Bayes rule to calculate this probaility.
+
+\[P(A_1|B) = (0.014(0.9)) / (0.014(0.9) + 0.986(0.1))\]
+
+\[P(A_1|B=0.11330\]
+
+In conclusion, the change that it will rain in the next day is 11.30%
+
+3. Early onset Alzheimer’s disease is very rare; for illustrative purpose, assume it is 0.1% among adults aged 30-60. Rare variants in 3 genes, APP, PSEN1 and PSEN2 have been identified as causing early onset AD in a dominant fashion, with P(AD|any of the three variants)=1. Early onset AD can also be caused by head injury; many other non-genetic factors have been suggested. In a series of 101 cases of early onset AD, only 7 (or approximately 7%) were found to have these variants in APP, PSEN1 and PSEN2; that is, the attributable risk due to the three rare variants is low. For simplicity, assume that the probability of variants in these 3 genes is so rare that we can assume P(no variant in any gene)≈1. Let the disease allele D symbolize a variant in any one of the three genes, d is no variant, and Y=1 means AD present. Estimate the probability of a phenocopy, P(Y=1|dd) (also known as phenocopy rate) for these genes combined, using the data given and Bayes Rule.
+
+The problem said that the change of having onset AD is 0.1%.
+
+\[P(Y=1) = 0.01\]
+
+So, we can find the change of not having onset AD.
+
+\[P(Y=0) = 1-0.01\]
+\[P(Y=0) = 0.99\]
+
+If there is any these variance, the change of having onset AD will be 100%
+\[P({DD,Dd,dD}|Y=1) = 1)\]
+
+Based on the 101 cases of early onset AD, there are approximately 7% having variance
+
+\[P(Y=1|{DD,Dd,dD}) = 0.07\]
+
+Since the change of having one or more of these 3 variants is rare
+
+\[P({DD,Dd,dD}) = 0\]
+
+We can find P(Y=1|dd) by using Bayes rules
+
+\[P(Y=1|dd)=(P(dd|Y=1)P(Y=1))/P(dd)\]
+
+\[P(Y=1|dd)=0.93(0.01)/1\]
+
+\[P(Y=1|dd)=0.0093\]
