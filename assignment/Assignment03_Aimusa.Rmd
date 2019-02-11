@@ -1,0 +1,95 @@
+---
+title: "Assignment 3"
+author: "Aimusa Arsu"
+date: "2/11/2019"
+output: pdf_document
+---
+
+1. For a biallelic variant rs921122(C/T) following Hardy- Weinberg Equilibrium with a minor allele frequency of 0.038, what is the expected allele frequency in the subsequent generation?
+
+A biallelic variant is *2pq=0.038* (2pq = percentage of heterozygous individuals)
+From Hardy-Weinberg equation, the basic formulas are *p+q=1* then to find p, the equation is *p=1-q*
+  
+\[2pq = 0.038\]
+
+\[2(1-q)(q) = 0.038\]
+
+\[q-q^2=0.019\]
+
+\[q^2-q+0.019=0\]
+
+\[(q-0.0193754)(q-0.980625)=0\]
+
+\[q=0.0193754, 0.980625\]
+
+Find p from *p=1-q*
+
+\[p=1-0.0193754\]
+
+\[p=0.9806246 = 0.980625\]
+
+Allele frequency in the subsequent generation
+p = frequency of the dominant allele in the population = 0.981
+q = frequency of the recessive allele in the population = 0.0194
+
+2. Marie is getting married tomorrow, at an outdoor ceremony in the desert. In recent years, it has rained only 5 days each year \[(A1)\]. Unfortunately, the weatherman has predicted rain for tomorrow. When it actually rains, the weatherman correctly forecasts rain 90% of the time. When it doesn't rain, he incorrectly forecasts rain 10% of the time.What is the probability that it will rain on the day of Marie's wedding?
+
+Probability it has rained each year
+
+\[P(A1) = 5/365\]
+
+\[P(A1) = 0.0137\]
+
+Probability it has not rained each year
+
+\[P(A2) = 360/365\]
+
+\[P(A2) = 0.9863\]
+
+Probability the weatherman correctly forecasts rain 90% of the time
+
+\[P(B|A1) = 0.9\]
+
+Proability the weatherman incorrectly forecasts rain 10% of the time
+
+\[P(B|A2) = 0.1\]
+
+From Bayes rule
+
+\[P(A1|B) = P(A1)P(B|A1) / P(A1)P(B|A1)+P(A1)P(B|A2)\]
+
+\[P(A1|B) = (0.0137(0.9)) / (0.0317(0.9))+(0.9863(0.1))\]
+
+\[P(A1|B) = 0.111\]
+
+Probability that it will rain on the day of Marie's wedding = 11%
+
+3. Early onset Alzheimer's disease is very rare; for illustrative purpose, assume it is 0.1% among adults aged 30-60. Rare variants in 3 genes, APP, PSEN1 and PSEN2 have been identified as causing early onset AD in a dominant fashion, with P(AD|any of the three variants)=1. Early onset AD can also be caused by head injury; many other non-genetic factors have been suggested. In a series of 101 cases of early onset AD, only 7 (or approximately 7%) were found to have these variants in APP, PSEN1 and PSEN2; that is, the attributable risk due to the three rare variants is low. For simplicity, assume that the probability of variants in these 3 genes is so rare that we can assume P(no variant in any gene)~1. Let the disease allele D symbolize a variant in any one of the three genes, d is no variant, and Y=1 means AD present. Estimate the probability of a phenocopy, P(Y=1|dd) (also known as phenocopy rate) for these genes combined, using the data given and Bayes Rule.
+
+Present of early onset Alzheimer's disease = 0.1%
+Proability present Alzheimer's disease
+
+\[P(Y=1) = 0.001\]
+
+Approximately 7% cases of early onset AD were found varients at least 1 genes, therefore 93% ases of early onset AD were found no varients at all 3 genes.
+Proability no varients present in early onset Alzheimer's disease
+
+\[P(dd|Y=1) = 0.93\]
+
+Probability of variants in these 3 genes is so rare that we can assume P(no variant in any gene)~1
+
+\[P(dd) = 1\]
+
+Bayes rule
+
+\[P(A|B) = P(B|A)P(A) / P(B)\]
+
+\[P(Y=1|dd) = P(dd|Y=1)P(Y=1) / P(dd)\]
+
+\[P(Y=1|dd) = 0.93(0.001) / 1\]
+
+\[P(Y=1|dd) = 0.0093\]
+
+The probability of a phenocopy, P(Y=1|dd) for these genes combined = 93%
+
+
