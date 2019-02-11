@@ -90,6 +90,6 @@ Bayes rule
 
 \[P(Y=1|dd) = 0.0093\]
 
-The probability of a phenocopy, P(Y=1|dd) for these genes combined = 93%
+The probability of a phenocopy, P(Y=1|dd) for these genes combined = 0.93%
 
 
