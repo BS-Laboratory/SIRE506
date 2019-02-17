@@ -16,36 +16,36 @@ Academic Year: 2018
 
 DATE      | TIME    | Format    | Topic     | Lecturer | Assignment |
 ----------|---------|-----------|-----------|----------|------------|
-7/1/19 | 1-3pm | Lecture | Complex Genetic Diseases in the Population | BS ||
-14/1/19 | 1-3pm | Lecture | Study designs in epidemiology and genetics | BS | [Assignment 1 -- Due 23/1/2019](assignment/assignment01.md) |
+7/1/19 | 1-3pm | L01 | Complex Genetic Diseases in the Population | BS ||
+14/1/19 | 1-3pm | L02 | Study designs in epidemiology and genetics | BS | [Assignment 1 -- Due 23/1/2019](assignment/assignment01.md) |
 14/1/19 | 3-5pm | Lab | Designing genetic studies | BS ||
-21/1/19 | 1-3pm | Lecture | Data management, data wrangling, EDA | DM |[Github](https://github.com/si-medbif/SIRE506-R-Intro)|
+21/1/19 | 1-3pm | L03 | Data management, data wrangling, EDA | DM |[Github](https://github.com/si-medbif/SIRE506-R-Intro)|
 21/1/19 | 3-5pm | Lab | Introduction to R | DM||
-28/1/19| 1-3pm | Lecture | Methods for high-throughput genotyping and sequencing | HG||
+28/1/19| 1-3pm | L04 | Methods for high-throughput genotyping and sequencing | HG||
 28/1/19| 3-5pm | Lab | PLINK: HWE, Call rate, and QC | HG||
-4/2/19| 1-3pm | Lecture | Fundamentals in the analysis of genetic studies | BS||
+4/2/19| 1-3pm | L05 | Fundamentals in the analysis of genetic studies | BS||
 4/2/19 | 3-5pm | Lab | Probability Reviews | BS||
-11/2/19  | 8-10am | Lecture | Recombination and linkage analysis | JE||
+11/2/19  | 8-10am | L06 | Recombination and linkage analysis | JE||
 11/2/19 | 10-12pm | Lab | Recombination and linkage analysis | JE||
-18/2/19 | 1-3pm | Lecture | Linkage disequilibrium and LD mapping | BS||
+18/2/19 | 1-3pm | L07 | Linkage disequilibrium and LD mapping | BS||
 18/2/19 | 3-5pm | Lab | Haploview, LDZoom | BS||
-25/2/19 | 1-3pm | Lecture | Designs and analysis in quantitative trait genetics studies | PC||
+25/2/19 | 1-3pm | L08 | Designs and analysis in quantitative trait genetics studies | PC||
 25/2/19 | 3-5pm | Lab | T-test, ANNOVA, linear regression | PC||
-4/3/19 | 1-3pm | Lecture | Designs and analysis of binary traits in genetics studies | PC||
+4/3/19 | 1-3pm | L09 | Designs and analysis of binary traits in genetics studies | PC||
 4/3/19 | 3-5pm | Lab | Chi square, trend-test, logistic regression | PC||
-11/3/19 | 8-10am | Lecture | Genome-wide association study | JE||
+11/3/19 | 8-10am | L10 | Genome-wide association study | JE||
 11/3/19 | 10-12pm | Lab | Analysis & Visualization | JE||
-18/3/19 | 1-3pm | Lecture |Mendelian randomization & meta-analysis | PC||
+18/3/19 | 1-3pm | L11 |Mendelian randomization & meta-analysis | PC||
 18/3/19 | 3-5pm | Lab |Meta-analysis and MR | PC||
-25/3/19 | 8-10am | Lecture | Confounders & Population Substructure | JE||
+25/3/19 | 8-10am | L12 | Confounders & Population Substructure | JE||
 25/3/19 | 10-12pm | Lab | MDR and PCA | JE |
-1/4/19 | 1-3pm | Lecture | Genetic studies using next-generation sequencing technology | HG||
+1/4/19 | 1-3pm | L13 | Genetic studies using next-generation sequencing technology | HG||
 1/4/19 | 3-5pm | Lab | Variant prioritization software | HG||
-22/4/19 | 1-3pm | Lecture | Analysis of transcriptome data | VC||
+22/4/19 | 1-3pm | L14 | Analysis of transcriptome data | VC||
 22/4/19 | 3-5pm | Lab | Gene Expression Analysis | VC||
-29/4/19 | 1-3pm | Lecture | Systems biology  | VC||
+29/4/19 | 1-3pm | L15 | Systems biology  | VC||
 29/4/19 | 3-5pm | Lab | Molecular Interaction & Network | VC||
-13/5/19 | TBD | Lecture | Final exam||
+13/5/19 | TBD | Exam | Final exam||
 
 Scoring:
 --------
