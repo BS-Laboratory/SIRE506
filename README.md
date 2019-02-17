@@ -28,7 +28,7 @@ DATE      | TIME    | Format    | Topic     | Lecturer | Assignment |
 11/2/19  | 8-10am | L06 | Recombination and linkage analysis | JE||
 11/2/19 | 10-12pm | Lab | Recombination and linkage analysis | JE||
 18/2/19 | 1-3pm | L07 | Linkage disequilibrium and LD mapping | BS||
-18/2/19 | 3-5pm | Lab | Haploview, LDZoom | BS||
+18/2/19 | 3-5pm | Lab | Haploview, LocusZoom | BS||
 25/2/19 | 1-3pm | L08 | Designs and analysis in quantitative trait genetics studies | PC||
 25/2/19 | 3-5pm | Lab | T-test, ANNOVA, linear regression | PC||
 4/3/19 | 1-3pm | L09 | Designs and analysis of binary traits in genetics studies | PC||
