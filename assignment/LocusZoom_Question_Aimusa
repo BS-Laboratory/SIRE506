@@ -1,0 +1,35 @@
+1. Find the location of rs4988235 
+1.1 Genomic coordinate 
+– Chromosome 2. Position 135851076
+1.2 Gene location 
+– Located in the MCM6 gene.
+1.3 Known functional alteration of this variant 
+– With influence on the lactase LCT gene. LCT is the gene that encodes for the lactase enzyme, enabling the digestion of lactose in milk. The C/T−13910 variant (rs4988235) that constitutes the putatively causal allele for lactase persistence (T allele representing persistence and C allele representing lactase non-persistence)
+
+2. Has this variant been reported associated with any disease phenotype(s)? 
+– Lactase intolerance in adulthood is commonly a result of polymorphisms in the MCM6 gene.
+	
+3. Use Locus-Zoom data, to explore the effect of this variant on metabolic traits GWAS data available on Locus-Zoom – HDL, LDL, total cholesterol, triglyceride
+**rs4988235**
+build: hg19
+display range: chr2:136208646−137008646 [136208646−137008646]
+hilite range: 0 − 0 [ 0 −0 ]
+reference SNP: 136608646
+- HDL
+number of SNPs plotted: 438
+minimum p value: 0.0000599 [chr2: 136787402]
+maximum p value: 0.996 [chr2: 136981971]
+- LDL
+number of SNPs plotted: 435
+minimum p value: 0.0000000000322 [chr2: 136608646]
+maximum p value: 0.955 [chr2: 136999531]
+- Total cholesterol
+number of SNPs plotted: 438
+minimum p value: 0.0000000000000397 [chr2: 136608646]
+maximum p value: 0.949 [chr2: 136864703]
+- Triglyceride
+number of SNPs plotted: 435
+minimum p value: 0.0178 [chr2: 136546635]
+maximum p value: 0.10 [chr2: 136609320]
+
+    – rs4988235 was associated with total cholesterol and LDL more than HDL and triglyceride because minimum p value of total cholesterol and LDL were less than minimum p value of HDL and triglyceride, respectively. Smaller p value means more power of the association effect between variant on metabolic traits. Therefore, we can compare the effect of rs4988235 was associated on the most total cholesterol, followed by LDL, HDL, and triglyceride, respectively.
