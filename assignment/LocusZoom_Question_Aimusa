@@ -10,11 +10,11 @@
 – Lactase intolerance in adulthood is commonly a result of polymorphisms in the MCM6 gene.
 	
 3. Use Locus-Zoom data, to explore the effect of this variant on metabolic traits GWAS data available on Locus-Zoom – HDL, LDL, total cholesterol, triglyceride
-**rs4988235**
-build: hg19
-display range: chr2:136208646−137008646 [136208646−137008646]
-hilite range: 0 − 0 [ 0 −0 ]
-reference SNP: 136608646
+rs4988235
+	build: hg19
+	display range: chr2:136208646−137008646 [136208646−137008646]
+	hilite range: 0 − 0 [ 0 −0 ]
+	reference SNP: 136608646
 - HDL
 number of SNPs plotted: 438
 minimum p value: 0.0000599 [chr2: 136787402]
