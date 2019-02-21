@@ -31,4 +31,4 @@ maximum p value: 0.949 [chr2: 136864703]
 number of SNPs plotted: 435
 minimum p value: 0.0178 [chr2: 136546635]
 maximum p value: 0.10 [chr2: 136609320]
-    – rs4988235 was associated with total cholesterol and LDL more than HDL and triglyceride because minimum p value of total cholesterol and LDL were less than minimum p value of HDL and triglyceride, respectively. Smaller p value means more power of the association effect between variant on metabolic traits. Therefore, we can compare the effect of rs4988235 was associated on the most total cholesterol, followed by LDL, HDL, and triglyceride, respectively.
+    rs4988235 was associated with total cholesterol and LDL more than HDL and triglyceride because minimum p value of total cholesterol and LDL were less than minimum p value of HDL and triglyceride, respectively. Smaller p value means more power of the association effect between variant on metabolic traits. Therefore, we can compare the effect of rs4988235 was associated on the most total cholesterol, followed by LDL, HDL, and triglyceride, respectively.
