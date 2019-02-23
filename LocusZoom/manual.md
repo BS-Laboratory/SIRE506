@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What is LocusZoom (Ford)
 PLZ DO NOT COPY THE CONTENT IN THE WEBSITE TO ANSWER HERE!!!!! PARAPHRASE IT!!!
 
@@ -6,3 +7,10 @@ Explanation of components in the website, what it can do?, What are the differen
 
 # How to analyse (Nung)
 # How to Interpret the Result (Beer)
+=======
+# Manual
+test
+#สวัสดีแม่สาวน้อย
+เหยยยยยยย
+
+>>>>>>> ae2ec9f331154019651afe8057de289f1a90a429
