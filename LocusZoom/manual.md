@@ -5,6 +5,8 @@ PLZ DO NOT COPY THE CONTENT IN THE WEBSITE TO ANSWER HERE!!!!! PARAPHRASE IT!!!
 Explanation of components in the website, what it can do?, What are the different of 4 modes? (Single Plot with your own data, single plot with published GWAS Data, Batch Plot with HITSPEC and Interactive plot with published GWAS)
 
 # Quickstart
+This will show you how to get started using LocusZoom to visualise the GWAS data within web browser.
+
 ## Choosing Analysis Mode
 
 ![](./img/LocusZoom_Modes.png)
