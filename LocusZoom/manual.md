@@ -11,23 +11,23 @@ This will show you how to get started using LocusZoom to visualise the GWAS data
 
 ### [[Plot]]
 
-A [[Plot]] is an instance of LocusZoom, returned by the `populate()` method. A plot has a layout and various supported methods.
+ [[Plot]] is the main option in LocusZoom, using by the `populate()` method. A plot has a layout and various supported methods.
 
 ### [[Panel]]
 
-A [[Panel]] is a subdivided area of a plot. Panels contain graph features such as titles and axes, but not actual data. Panels occupy the full width the of the plot and are stacked vertically along the y-axis in the order they are added unless directed differently by their layouts.
+[[Panel]] is a subdivided area of a plot which contain graph features for example titles and axes. 
 
 ### [[Data Layer]]
 
-A [[Data Layer]] is a layer within a panel for representing data. Data layers are stacked depth-wise along the z-axis in the other they are added unless directed differently by their layouts.
+ [[Data Layer]] is a layer within a panel for representing data. 
 
 ### [[Dashboard]]
 
-A [[Dashboard]] is an HTML element that can contain information or user interface components relevant to a plot. Dashboards can be attached to the plot as a whole or to individual panels. They are described with their own layouts nested within the layouts of the parent plot or panel.
+[[Dashboard]] is an HTML element which contain information and user interface components relevant to a plot. Dashboards can be use to attach the plot as a whole or to individual panels. 
 
 ### [[Legend]]
 
-A [[Legend]] is an SVG element belonging to a panel that annotated categories of data shown on the underlying data layers. Legends are described in general terms as a part of a panel's layout and the specific elements to appear in the legend are described by each of the panel's data layers.
+[[Legend]] is an SVG element in panel which present the categories of data shown on the underlying data layers. 
 
 ## Top-level Library Methods
 
