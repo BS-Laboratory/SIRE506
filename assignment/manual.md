@@ -26,7 +26,7 @@ Plot published GWAS has two mode include single plot and interactive plot
     - Use the Show Region By Gene dropdown to jump to regions centered around preselected genes
     - Go to specific region by enter the format chr:start-end
 - Click on genes or variants in any part of the plot for more information about them
-- Use the ??? and ???  buttons to swap the plot up and down
+- Use the up and down  buttons to swap the plot up and down
 - Use the Abstract button to see more information about the data that panel is showing
 - Click and drag the bars between panels to resize them
 - Use the Download Image button to export an SVG image of the plot, suitable for converting to PDF or any other image format
