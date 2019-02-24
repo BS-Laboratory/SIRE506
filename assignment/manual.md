@@ -39,12 +39,12 @@ Fig. 1. An example LocusZoom plot showing the HDL cholesterol-associated region 
 ![](./img/hdl single2.png)
 Fig. 2. An example LocusZoom plot showing the HDL cholesterol-associated region near the MCM6 gene from single mode and details.
 
-- The main panel of a LocusZoom plot shows association P-values on the ???log10 scale on the vertical axis, and the chromosomal position along the horizontal axis.
+- The main panel of a LocusZoom plot shows association P-values on the -log10 scale on the vertical axis, and the chromosomal position along the horizontal axis.
 - The user can specify the region to display in one of three ways: 
   1. an index SNP and a window size
   2. the chromosome together with start and stop positions
   3. gene name and size of flanking region. 
-- The plots were designed to display ???1 Mb windows of the genome, although for regions with several association signals or long-range LD patterns, plots extending further can be drawn.
+- The plots were designed to display ~1 Mb windows of the genome, although for regions with several association signals or long-range LD patterns, plots extending further can be drawn.
 - To identify SNPs that may be potentially causative, LocusZoom plots show not only the magnitude of association for each SNP, but also the pairwise LD pattern with the most strongly associated SNP or another user-specified SNP. 
 - Quick inspection can reveal the extent of the associated region and the location and number of SNPs in strong LD with the index SNP. In addition, a locus may show strongly associated variants that are weakly correlated, suggesting the presence of multiple independent association signals.
 - Users may choose to display LD (r^2). LocusZoom is compatible with 1000 Genomes SNP naming format (chr:position) and will plot association results for novel SNPs identified by sequencing studies.
