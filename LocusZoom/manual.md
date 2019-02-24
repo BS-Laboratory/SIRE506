@@ -6,6 +6,10 @@ Explanation of components in the website, what it can do?, What are the differen
 
 # Quickstart
 This will show you how to get started using LocusZoom to visualise the GWAS data within web browser.
+## Requirements
+required solfware :
+    Python 2.7+ (not 3.0 branch)
+    R 3.0+ (R 3.1 must install LocusZoom 1.3)
 
 ## Choosing Analysis Mode
 
