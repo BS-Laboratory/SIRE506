@@ -29,57 +29,6 @@ This will show you how to get started using LocusZoom to visualise the GWAS data
 
 [[Legend]] is an SVG element in panel which present the categories of data shown on the underlying data layers. 
 
-## Top-level Library Methods
-
-Locuszoom.js creates an global object namespace called `LocusZoom`. This object has the following methods:
-
-* **`LocusZoom.populate(selector, datasource, [layout])`**  
-
-Populate a single DOM element with a LocusZoom plot.  
-* `selector` *string, required* - DOM query selector string.  
-* `datasource` *object, required* - A valid [[Data Sources]] object that defines the namespaces and methods for retrieving data.  
-* `layout` *object, optional* - A valid [[Layout|Layouts]] object that defines the geometry and behaviors of the plot. If not provided the standard association plot layout will be used.  
-
-* **`LocusZoom.populate(selector, datasource, [layout])`**  
-
-Identical to `LocusZoom.populate()` but will generate plot in *all* elements that match the DOM query selector string, not just the first found.  
-
-* **`LocusZoom.positionIntToString(pos, exp, suffix)`**  
-
-Convert an integer position to a string (e.g. `23423456` => `"23.42 (Mb)"`)  
-* `pos` *integer, required* - Position value.  
-* `exp` *integer, optional* - Exponent of the returned string's base (e.g. 3 for Kb, 6 for Mb, regardless of the value of `pos`). If not provided returned string will select smallest base divisible by 3 for a whole number value.   
-* `suffix` *boolean, optional* - Whether or not to append a suffix (e.g. "Mb") to the end of the returned string. Defaults to `false`.  
-
-* **`LocusZoom.positionStringToInt(pos)`**  
-
-Convert a string position to an integer (e.g. `"5.8 Mb"` => `58000000`)
-* `pos` *integer, required* - Position value.  
-
-* **`LocusZoom.getToolTipData(node)`**  
-
-Method for use in custom javascript within a tooltip's custom HTML to gain access to the data that generated the tooltip. Works recursively to locate the parent tooltip element regardless of how nested an element is in the custom HTML. For example, this custom button element in a tooltip would log the tooltip's underlying data to the console:  
-
-`<button onclick="console.log(LocusZoom.getToolTipData(this);">Click Me</button>`  
-
-* **`LocusZoom.getToolTipDataLayer(node)`**  
-
-Method for use in custom javascript within a tooltip's custom HTML to gain access to the data layer containing the element that generated the tooltip. Works recursively to locate the parent tooltip element regardless of how nested an element is in the custom HTML. For example, this custom button element in a tooltip would log the data layer containing the element that generated the tooltip to the console:  
-
-`<button onclick="console.log(LocusZoom.getToolTipDataLayer(this);">Click Me</button>`  
-
-* **`LocusZoom.getToolTipPanel(node)`**  
-
-Method for use in custom javascript within a tooltip's custom HTML to gain access to the panel containing the data layer and element that generated the tooltip. Works recursively to locate the parent tooltip element regardless of how nested an element is in the custom HTML. For example, this custom button element in a tooltip would log the tooltip's parent panel to the console:  
-
-`<button onclick="console.log(LocusZoom.getToolTipPanel(this);">Click Me</button>`  
-
-* **`LocusZoom.getToolTipPlot(node)`**  
-
-Method for use in custom javascript within a tooltip's custom HTML to gain access to the parent plot that generated the tooltip. Works recursively to locate the parent tooltip element regardless of how nested an element is in the custom HTML. For example, this custom button element in a tooltip would log the tooltip's parent plot to the console:  
-
-`<button onclick="console.log(LocusZoom.getToolTipPanel(this);">Click Me</button>`  
-
 ## Choosing Analysis Mode
 
 ![](./img/LocusZoom_Modes.png)
