@@ -8,6 +8,7 @@ Explanation of components in the website, what it can do?, What are the differen
 
 # How to Interpret the Result (Beer)
 Plot published GWAS has two mode include single plot and interactive plot
+
 **1. Single plot**
 - Choose Pre-loaded data type by selecting trait group and data file.
 - Specify region to display by fill in only of SNP reference name, Gene reference name, or region
@@ -57,5 +58,6 @@ Fig. 2. An example LocusZoom plot showing the HDL cholesterol-associated region 
   - number of SNPs plotted
   - min P.value
   - max P.value
+ 
  Smaller p value means more power of the association effect between variant on metabolic traits.
 
