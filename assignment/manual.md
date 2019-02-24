@@ -57,5 +57,5 @@ Fig. 2. An example LocusZoom plot showing the HDL cholesterol-associated region 
   - number of SNPs plotted
   - min P.value
   - max P.value
-   - Smaller p value means more power of the association effect between variant on metabolic traits.
+  Smaller p value means more power of the association effect between variant on metabolic traits.
 
