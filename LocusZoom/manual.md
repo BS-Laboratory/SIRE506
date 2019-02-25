@@ -1,8 +1,5 @@
-# What is LocusZoom (Ford)
-PLZ DO NOT COPY THE CONTENT IN THE WEBSITE TO ANSWER HERE!!!!! PARAPHRASE IT!!!
-
-# Getting Started (Ford)
-Explanation of components in the website, what it can do?, What are the different of 4 modes? (Single Plot with your own data, single plot with published GWAS Data, Batch Plot with HITSPEC and Interactive plot with published GWAS)
+# What is LocusZoom
+LocusZoom is the tool for interactively visualizing statistical genetic data from customizable sources. It provides viewing of local association results together with useful information about a locus, such as the location and orientation of the genes it includes, linkage disequilibrium coefficients and local estimates of recombination rates.
 
 # Quickstart
 This will show you how to get started using LocusZoom to visualise the GWAS data within web browser.
