@@ -1,18 +1,16 @@
-Course Syllabus
+SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 ===============
 
 **Academic Year: 2020**
 
-SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
------------------------------------------------------------------
+**Course Syllabus**
 
-Date:  Jan 4 – April 30, 2021
-
-
-
+**Date:  Jan 4 – April 30, 2021**
 -   [Course Website](https://si-medbif.github.io/SIRE506/)
 -   [Github Repository](https://github.com/si-medbif/SIRE506)
 -   [Handouts]()
+
+**Schedule**
 
 | DATE | TIME | ROOM | Evaluation | Topic | FACULTY STAFF | Coursera Supplements |
 |------|------|------|------------|-------|---------------|----------------------|
