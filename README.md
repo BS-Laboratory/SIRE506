@@ -33,21 +33,21 @@ SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 1.	Differentiate mendelian and complex genetic diseases, and explain the factors influencing the disease expression, such as heritability, penetrance, variable expressivity, genetic heterogeneity, phenocopy, pleiotropy. 
 2.	Can perform exploratory data analysis and create a descriptive summary statistics report similar to the “Table 1 summary of study population demographics” using R. 
 3.	Can systematically describe the various methodological approaches in epidemiological research. 
-  -	Can differentiate the descriptive from analytic study design, experimental vs observational, explain the different between cross-sectional study and case-control study, and highlight the strengths and weaknesses through real-life examples. 
-  -	Can explain what ecological study design is, and when ecological fallacy can happen. And, properly choose the optimal design to answer the questions in genetic research. 
-  -	Can design a genetic association study to investigate common genetic diseases, including creating a case record form to collect data. Drawing an example from genome-wide association study of height
+    -	Can differentiate the descriptive from analytic study design, experimental vs observational, explain the different between cross-sectional study and case-control study, and highlight the strengths and weaknesses through real-life examples. 
+    -	Can explain what ecological study design is, and when ecological fallacy can happen. And, properly choose the optimal design to answer the questions in genetic research. 
+    -	Can design a genetic association study to investigate common genetic diseases, including creating a case record form to collect data. Drawing an example from genome-wide association study of height
 4.	Can explain the advantage of cohort studies over case-control studies, and give some examples of how cohort study design is used in genetic studies. Drawing examples from gene expression study to identify SPM in HNSCC and the three studies in Manolio 2009 (https://www.nature.com/articles/ng0109-5).
 5.	Can perform basic calculation of common descriptive statistic estimates e.g. mean, standard deviation, variance, standard error. Can calculate the posterior probability using the Bayes Theorem. 
 6.	Can choose the appropriate statistical tests for quantitative variables and categorical variables, set up the hypothesis testing process, and interpret the statistical significance of the results from the p-value and 95% confidence interval. 
 7.	Can perform clustering analysis and interpret the results from Heirachical Clustering and K-Mean methods
-  -	Can propely recode the data for additive, dominant, recessive, and co-dominant genetic model; interpret the results from each model.
+    -	Can propely recode the data for additive, dominant, recessive, and co-dominant genetic model; interpret the results from each model.
 8.	Can perform linear regression analysis and interpret the results of a multivariate linear regression analysis
-  -	Can analyze and interpret the results from the linear regression analysis from the study of quantitative phenotypes
+    -	Can analyze and interpret the results from the linear regression analysis from the study of quantitative phenotypes
 9.	Can perform logistic regression analysis and interpret the results of a multivariate logistic regression analysis
-  -	Can analyze and interpret the results from the logistic regression analysis from a case-control study of binary phenotypes
+    -	Can analyze and interpret the results from the logistic regression analysis from a case-control study of binary phenotypes
 10.	Can describe the objectives of common study designs used in genetic studies, namely GSEA, RNASeq, ChipSeq, Methylation, GWAS/WGS, eQTL.
-  -	Can perform quality control check of high-throughput SNP genotyping and create a report
-  -	Can perform GWAS and write a report on the results.
+    -	Can perform quality control check of high-throughput SNP genotyping and create a report
+    -	Can perform GWAS and write a report on the results.
 11.	Can perform population stratification analysis using Eigenstrat and PCA, and can adjust for population substruction in genetic association analysis
 12.	Can explain the objectives of mendelian randomization and meta-analysis are used in genetic studies
 13.	Can perform GSEA and pathway analysis
