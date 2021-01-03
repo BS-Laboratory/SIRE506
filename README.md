@@ -4,48 +4,34 @@ Course Syllabus
 SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 -----------------------------------------------------------------
 
-Date:  Jan 7 – May 6, 2019
+Date:  Jan 4 – April 30, 2021
 
-Academic Year: 2018
+Academic Year: 2020
 
 ### <span style="color:red">News: Please note the time changes for March 18 & March 25.</span>
 
 -   [Course Website](https://si-medbif.github.io/SIRE506/)
 -   [Github Repository](https://github.com/si-medbif/SIRE506)
--   [Handouts](https://www.dropbox.com/sh/2uihuw7taej6lwb/AABqngbn71SeymYEgyyD9c4aa?dl=0)
+-   [Handouts]()
 
-DATE      | TIME    | Format    | Topic     | Lecturer | Assignment |
-----------|---------|-----------|-----------|----------|------------|
-7/1/19 | 1-3pm | L01 | Complex Genetic Diseases in the Population | BS ||
-14/1/19 | 1-3pm | L02 | Study designs in epidemiology and genetics | BS | [Assignment 1 -- Due 23/1/2019](assignment/assignment01.md) |
-14/1/19 | 3-5pm | Lab | Designing genetic studies | BS ||
-21/1/19 | 1-3pm | L03 | Data management, data wrangling, EDA | DM |[Github](https://github.com/si-medbif/SIRE506-R-Intro)|
-21/1/19 | 3-5pm | Lab | Introduction to R | DM||
-28/1/19| 1-3pm | L04 | Methods for high-throughput genotyping and sequencing | HG||
-28/1/19| 3-5pm | Lab | PLINK: HWE, Call rate, and QC | HG||
-4/2/19| 1-3pm | L05 | Fundamentals in the analysis of genetic studies | BS||
-4/2/19 | 3-5pm | Lab | Probability Reviews | BS||
-11/2/19  | 8-10am | L06 | Recombination and linkage analysis | JE||
-11/2/19 | 10-12pm | Lab | Recombination and linkage analysis | JE||
-18/2/19 | 1-3pm | L07 | Linkage disequilibrium and LD mapping | BS||
-18/2/19 | 3-5pm | Lab | Haploview, LocusZoom | BS||
-25/2/19 | 1-3pm | L08 | Designs and analysis in quantitative trait genetics studies | PC||
-25/2/19 | 3-5pm | Lab | T-test, ANNOVA, linear regression | PC||
-4/3/19 | 1-3pm | L09 | Designs and analysis of binary traits in genetics studies | PC||
-4/3/19 | 3-5pm | Lab | Chi square, trend-test, logistic regression | PC||
-11/3/19 | 8-10am | L10 | Genome-wide association study | JE||
-11/3/19 | 10-12pm | Lab | Analysis & Visualization | JE||
-18/3/19 | 1-3pm | L11 |Mendelian randomization & meta-analysis | PC||
-18/3/19 | 3-5pm | Lab |Meta-analysis and MR | PC||
-25/3/19 | 8-10am | L12 | Confounders & Population Substructure | JE||
-25/3/19 | 10-12pm | Lab | MDR and PCA | JE |
-1/4/19 | 1-3pm | L13 | Genetic studies using next-generation sequencing technology | HG||
-1/4/19 | 3-5pm | Lab | Variant prioritization software | HG||
-22/4/19 | 1-3pm | L14 | Analysis of transcriptome data | VC||
-22/4/19 | 3-5pm | Lab | Gene Expression Analysis | VC||
-29/4/19 | 1-3pm | L15 | Systems biology  | VC||
-29/4/19 | 3-5pm | Lab | Molecular Interaction & Network | VC||
-13/5/19 | TBD | Exam | Final exam||
+| DATE | TIME | ROOM | Evaluation | Topic | FACULTY STAFF | Coursera Supplements |
+|------|------|------|------------|-------|---------------|----------------------|
+| 1/4/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Complex Genetic Diseases in Population | Bhoom  Suktitipat | [The Data Scientist's Toolbox Week 2, 4](https://www.coursera.org/learn/data-scientists-tools?specialization=data-science-foundations-r) |
+| 1/11/2021 | 9:00-12:00 | SIMR Fl.11 | A | Exploratory Data Analysis | Bhoom  Suktitipat | [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science) |
+| 1/18/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Study designs in epidemiology and genetics I | Bhoom  Suktitipat | [Study Design in Epidemiology - Week 1-2](https://www.coursera.org/learn/study-designs-epidemiology) |
+| 1/25/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Study designs in epidemiology and genetics II | Bhoom  Suktitipat | [Study Design in Epidemiology - Week 3-4](https://www.coursera.org/learn/study-designs-epidemiology)|
+| 2/1/2021 | 9:00-12:00 | SIMR Fl.11 | A | Statistical Inference I | Bhoom  Suktitipat | [Statistical Inference - Week 1-2](https://www.coursera.org/learn/statistical-inference) |
+| 2/8/2021 | 9:00-12:00 | SIMR Fl.11 | A | Statistical Inference II | Bhoom  Suktitipat | [Statistical Inference - Week 3-4](https://www.coursera.org/learn/statistical-inference) |
+| 2/15/2021 | 9:00-12:00 | SIMR Fl.11 | A | Statistics in Genomics | Bhoom  Suktitipat | [Statistics for Genomic Data Science - Week 1 & 2](https://www.coursera.org/learn/statistical-genomics) |
+| 2/22/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Designs and analysis in quantitative trait genetics studies | Pimphen Charoen | [Statistics for Genomic Data Science - Week 2](https://www.coursera.org/learn/statistical-genomics) |
+| 3/1/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Designs and analysis of binary traits in genetics studies | Pimphen Charoen | [Statistics for Genomic Data Science - Week 3](https://www.coursera.org/learn/statistical-genomics) |
+| 3/8/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Overview of GWAS/WGS, eQTL, GSEA, RNASeq, ChipSeq, Methylation | Bhoom  Suktitipat | [Statistics for Genomic Data Science - Week 4](https://www.coursera.org/learn/statistical-genomics) |
+| 3/15/2021 | 9:00-12:00 | SIMR Fl.11 | A | Eigenstrat & PCA for Population Substructure | Jakris Euahsunthornwattana |  |
+| 3/22/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Mendelian randomization & meta-analysis | Pimphen Charoen |  |
+| 3/29/2021 | 9:00-12:00 | SIMR Fl.11 | A | Differential Expression Analysis and GSEA & Pathway analysis | Varodom Charoensawan |  |
+| 4/5/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Genetic studies using next-generation sequencing technology | Harald Grove |  |
+| 4/12/2021 | 9:00-12:00 | SIMR Fl.11 | A | Precision Medicine and Public Health | Bhoom Suktitipat | [Case studies in Personalized Medicine -- Week 3](https://www.coursera.org/learn/personalizedmed) |
+| 4/19/2021 | 9:00-12:00 | SIMR Fl.11 |   | Final exam | Faculty |  |
 
 Scoring:
 --------
@@ -72,11 +58,10 @@ Integrative Computational BioScience Center, Mahidol University
 
 Instructors
 ----------
-* Dr. Dumrong Mairiant, PhD (Biotech, NSTDA)
 * Dr. Harald Grove, PhD (Faculty of Medicine Siriraj Hospital, Mahidol University)
 * Dr. Jakris Eu-ahsunthornwattana, MD, PhD (Faculty of Medicine Ramathibodi Hospital, Mahidol University)
 * Dr. Pimphen Charoen, PhD (Faculty of Tropical Medicine, Mahidol University)
-* Dr. Vardodom Charoensawan, PhD (Faculty of Science, Mahidol University)
+* Assoc. Prof. Dr. Vardodom Charoensawan, PhD (Faculty of Science, Mahidol University)
 
 Reference Books
 ------------------
@@ -86,4 +71,4 @@ Reference Books
 
 Handouts
 -----------
-Please see this [link](https://www.dropbox.com/sh/2uihuw7taej6lwb/AABqngbn71SeymYEgyyD9c4aa?dl=0)
+Please see this [link]()
