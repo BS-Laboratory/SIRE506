@@ -11,12 +11,12 @@ Work together to create a MedBIF 2021 cohort resume aiming for future employers 
 
 1. Fork the [Github Repository MedBIF 2021]() to your personal github account.
 2. Create a new branch called "resume" 
-3. add your own resume using markdown format. Don't worry too much about beutiful design. Our main goal at the moment is to aggregate all the information required in a resume and oraganize them into relevant sections. Include the following headings
+3. add your own resume using markdown format. __Don't worry too much about beutiful design.__ Our main goal at the moment is to aggregate all the information required in a resume and oraganize them into relevant sections. Include the following headings
     - Name
+    - Summary: See this post from [Harvard Univresity](https://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
     - Your profile photo
     - Contact Info
     - Social media profile: Your medium page
-    - Summary See this post from [Harvard Univresity](https://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
     - Technical skills
     - Experience
     - Education formated as a **TABLE** 
