@@ -9,9 +9,9 @@
 ## Instruction
 Work together to create a MedBIF 2021 cohort resume aiming for future employers job application using markdown to list userful information to be included on your resume. See [how to make a resume guide from Zety](https://zety.com/blog/how-to-make-a-resume) or find other inspirational reference on resume creation.
 
-1. Fork the [Github Repository MedBIF 2021]() to your personal github account.
+1. Fork the [Github Repository MedBIF 2021](https://github.com/si-medbif/medbif2021) to your personal github account.
 2. Create a new branch called "resume" 
-3. add your own resume using markdown format. __Don't worry too much about beutiful design.__ Our main goal at the moment is to aggregate all the information required in a resume and oraganize them into relevant sections. Include the following headings
+3. add your own resume using markdown format. __Don't worry too much about beutiful design.__ Our main goal at the moment is to aggregate all the information required in a resume and oraganize them into relevant sections. See this [example](example_resume.md). Include the following headings
     - Name
     - Summary: See this post from [Harvard Univresity](https://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
     - Your profile photo
