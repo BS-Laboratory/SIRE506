@@ -3,7 +3,7 @@
 ## Due date: Jan 29, 2021
 
 ## Learning Objectives
-1. Become familiar with version control using git
+1. Become familiar with version control using git and exploratory data analysis using R
 2. Practice performing exploratory data analysis, and writing a descriptive statistics report. 
 
 ## Instruction
