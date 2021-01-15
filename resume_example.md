@@ -1,5 +1,5 @@
 # Bhoom Suktitipat, MD, PhD
-![Profile Image P](image/profile_image.png)
+![Profile Image Placeholder](image/bhoom_image.png)
 
 ## Summary
 Dr.Bhoom Suktitipat graduated with an M.D. from Faculty of Medicine Siriraj Hospital, Mahidol University in 2003. In the same year, he started working as an instructor at the Department of Biochemistry, Faculty of Medicine Siriraj Hospital. He received his Ph.D. in Epidemiology with a focus in Genetic Epidemiology from the Johns Hopkins Bloomberg School of Public Health in 2010, and worked as a postdoctoral fellow in Statistical Genetics at the National Human Genome Research Institute, NIH, from 2010-2012. Dr. Suktitipat’s research focuses on the development and application of statistical methods to understand the effect of important genetic variations and human diseases.
