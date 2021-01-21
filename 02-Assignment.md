@@ -7,7 +7,7 @@
 2. Practice performing exploratory data analysis, and writing a descriptive statistics report. 
 
 ## Instruction
-Base on the Titanic Testing Dataset on Kaggle: https://www.kaggle.com/c/titanic. Use [`training dataset`](https://www.kaggle.com/c/titanic/data).Perform an exploratory data analysis on available factors that might determine the survival of the titanic passengers. Write on Medium, and create the R project sourcecode repository on Github.
+Base on the Titanic Dataset on Kaggle: https://www.kaggle.com/c/titanic. Use [`training dataset`](https://www.kaggle.com/c/titanic/data).Perform an exploratory data analysis on available factors that might determine the survival of the titanic passengers. Write on Medium, and create the R project sourcecode repository on Github.
 
 1. Create a table of descriptive statistics of the dataset. 
 2. Write a paragraph describing the above table 1.
