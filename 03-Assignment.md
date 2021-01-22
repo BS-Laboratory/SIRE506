@@ -3,7 +3,7 @@
 ## Due date: Feb 1, 2021
 
 ## Learning Objectives
-1. 
+1. Can identify the type of the research study, and justify the heirachy of evidence provided by such study.
 2. Communication skills (reading, writing, and critical thinking -- analyzing the information, literature search skill)
 
 ## Instruction
