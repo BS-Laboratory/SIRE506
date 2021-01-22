@@ -13,7 +13,7 @@ Base on the Titanic Testing Dataset on Kaggle: https://www.kaggle.com/c/titanic.
 2. Write a paragraph describing the above table 1.
 3. Create suitable graph for each available attributes.
 
-## Scoreing
+## Scoring
 1. 40% Choose suitable aggregate summary statistics for the attributes. 
 2. 40% for correct analytical codes (check in git)
 3. 10% for git repository
