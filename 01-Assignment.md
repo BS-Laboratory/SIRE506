@@ -24,7 +24,7 @@ Work together to create a MedBIF 2021 cohort resume aiming for future employers 
 5. Write an instructional tutorial on how to fork a git repository, creating a branch, adding a new file, commit the changes, push local file to remote repository, create a pull request, on [**Medium**](https://medium.com/) to share these git how to. 
 6. Share your Medium post to your friends via your social media. 
 
-## Scoreing
+## Scoring
 1. 50% for proper format of Markdown resume
 2. 40% for correct git tasks
 3. 5% on popularity of your Medium post
