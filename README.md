@@ -9,25 +9,7 @@ SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 -   [Handouts]()
 
 ## Schedule
-
-| DATE | TIME | ROOM | Evaluation | Topic | FACULTY STAFF | Coursera Supplements |
-|------|------|------|------------|-------|---------------|----------------------|
-| 1/4/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Complex Genetic Diseases in Population | Bhoom  Suktitipat | [The Data Scientist's Toolbox Week 2, 4](https://www.coursera.org/learn/data-scientists-tools?specialization=data-science-foundations-r) |
-| 1/11/2021 | 9:00-12:00 | SIMR Fl.11 | A | Exploratory Data Analysis | Bhoom  Suktitipat | [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science) |
-| 1/18/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Study designs in epidemiology and genetics I | Bhoom  Suktitipat | [Study Design in Epidemiology - Week 1-2](https://www.coursera.org/learn/study-designs-epidemiology) |
-| 1/25/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Study designs in epidemiology and genetics II | Bhoom  Suktitipat | [Study Design in Epidemiology - Week 3-4](https://www.coursera.org/learn/study-designs-epidemiology)|
-| 2/1/2021 | 9:00-12:00 | SIMR Fl.11 | A | Statistical Inference I | Bhoom  Suktitipat | [Statistical Inference - Week 1-2](https://www.coursera.org/learn/statistical-inference) |
-| 2/8/2021 | 9:00-12:00 | SIMR Fl.11 | A | Statistical Inference II | Bhoom  Suktitipat | [Statistical Inference - Week 3-4](https://www.coursera.org/learn/statistical-inference) |
-| 2/15/2021 | 9:00-12:00 | SIMR Fl.11 | A | Statistics in Genomics | Bhoom  Suktitipat | [Statistics for Genomic Data Science - Week 1 & 2](https://www.coursera.org/learn/statistical-genomics) |
-| 2/22/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Designs and analysis in quantitative trait genetics studies | Pimphen Charoen | [Statistics for Genomic Data Science - Week 2](https://www.coursera.org/learn/statistical-genomics) |
-| 3/1/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Designs and analysis of binary traits in genetics studies | Pimphen Charoen | [Statistics for Genomic Data Science - Week 3](https://www.coursera.org/learn/statistical-genomics) |
-| 3/8/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Overview of GWAS/WGS, eQTL, GSEA, RNASeq, ChipSeq, Methylation | Bhoom  Suktitipat | [Statistics for Genomic Data Science - Week 4](https://www.coursera.org/learn/statistical-genomics) |
-| 3/15/2021 | 9:00-12:00 | SIMR Fl.11 | A | Eigenstrat & PCA for Population Substructure | Jakris Euahsunthornwattana |  |
-| 3/22/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Mendelian randomization & meta-analysis | Pimphen Charoen |  |
-| 3/29/2021 | 9:00-12:00 | SIMR Fl.11 | A | Differential Expression Analysis and GSEA & Pathway analysis | Varodom Charoensawan |  |
-| 4/5/2021 | 9:00-12:00 | SIMR Fl.11 | A+E | Genetic studies using next-generation sequencing technology | Harald Grove |  |
-| 4/12/2021 | 9:00-12:00 | SIMR Fl.11 | A | Precision Medicine and Public Health | Bhoom Suktitipat | [Case studies in Personalized Medicine -- Week 3](https://www.coursera.org/learn/personalizedmed) |
-| 4/19/2021 | 9:00-12:00 | SIMR Fl.11 |   | Final exam | Faculty |  |
+[Please check](https://www.dropbox.com/s/ft7ymhhce1iq2qs/SIRE506-Schedule-AY2021.xlsx?dl=0)
 
 ## Course Learning Objectives
 1.	Differentiate mendelian and complex genetic diseases, and explain the factors influencing the disease expression, such as heritability, penetrance, variable expressivity, genetic heterogeneity, phenocopy, pleiotropy. 
@@ -48,11 +30,9 @@ SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 10.	Can describe the objectives of common study designs used in genetic studies, namely GSEA, RNASeq, ChipSeq, Methylation, GWAS/WGS, eQTL.
     -	Can perform quality control check of high-throughput SNP genotyping and create a report
     -	Can perform GWAS and write a report on the results.
-11.	Can perform population stratification analysis using Eigenstrat and PCA, and can adjust for population substruction in genetic association analysis
-12.	Can explain the objectives of mendelian randomization and meta-analysis are used in genetic studies
-13.	Can perform GSEA and pathway analysis
-14.	Can prioritize variants for report according to ACMG recommendation
-15.	Can explain how the finding from genetic studies are used in precision medicine and public health settings
+11.	Can perform GSEA and pathway analysis
+12.	Can prioritize variants for report according to ACMG recommendation
+13.	Can explain how the finding from genetic studies are used in precision medicine and public health settings
 
 ## Scoring
 

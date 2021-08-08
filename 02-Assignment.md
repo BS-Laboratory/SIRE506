@@ -1,7 +1,7 @@
 # Assignment 2
 
-## Due date: Jan 29, 2021
-
+## Due date: 30 Aug 2021
+- Publish your writing on Medium & Github Repository 
 ## Learning Objectives
 1. Become familiar with version control using git and exploratory data analysis using R
 2. Practice performing exploratory data analysis, and writing a descriptive statistics report. 
@@ -14,8 +14,4 @@ Base on the Titanic Dataset on Kaggle: https://www.kaggle.com/c/titanic. Use [`t
 3. Create suitable graph for each available attributes.
 
 ## Scoring
-1. 40% Choose suitable aggregate summary statistics for the attributes. 
-2. 40% for correct analytical codes (check in git)
-3. 10% for git repository
-3. 5% on popularity of your Medium post
-4. 5% best hook (introductory paragraph)
+[Check this detail](./02-rubric.md)

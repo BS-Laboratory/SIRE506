@@ -16,12 +16,11 @@ You have **2 (two)** hours to complete the exam. Early submission is okay.
 
 ## List of questions
 There are a total of 9 topics 
-1. [Hardy-Weinberg Equilibrium and genetic models (20 points)](https://forms.gle/18JKxX3ZciySkhL79)
-2. [Study Design & Confounding factors in genetic association studies (15 points)](https://forms.gle/tYeMmEsnw84R4Tk7A)
-3. [Complex Genetic Disorder (10 points)](https://forms.gle/wyKKZLujDqErnPf48)
+1. [Complex Genetic Disorder (10 points)](https://forms.gle/wyKKZLujDqErnPf48)
+2. [Hardy-Weinberg Equilibrium and genetic models (20 points)](https://forms.gle/18JKxX3ZciySkhL79)
+3. [Study Design & Confounding factors in genetic association studies (15 points)](https://forms.gle/tYeMmEsnw84R4Tk7A)
 4. [Variant function interpretation in WES I (10 points)](https://forms.gle/wiBQYUrKGMkyc8V3A)
 5. [Variant function interpretation in WES II (10 points)](https://forms.gle/js1o8vYypQPhu2rY9)
 6. [Qualitative and Quantitative Analyis of Genetic Studies (20 points)](https://forms.gle/Cp71s8ckFXv4oo9EA)
-7. [Mendelian randomization and meta-analysis (10 points)](https://forms.gle/iXRjB2i9zNadiDTeA)
-8. [Study design in Epidemiology (10 points)](https://forms.gle/pFtLK6FMVVD5zgHh7)
-9. [Precision Medicine (10 points)](https://forms.gle/RQNV3v8Rc1xfGy3w7)
+7. [Study design in Epidemiology (10 points)](https://forms.gle/pFtLK6FMVVD5zgHh7)
+8. [Precision Medicine (10 points)](https://forms.gle/RQNV3v8Rc1xfGy3w7)
