@@ -47,8 +47,8 @@ SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 * A > 90%
 * B+ [80-90)
 * B [70-80)
-* C < 70%
-
+* C+ [60-70)
+* C < 60%>
 ## Course coordinator:
 
 Asst. Prof. Dr. Bhoom Suktitipat, MD, PhD  
@@ -66,6 +66,7 @@ Integrative Computational BioScience Center, Mahidol University
 1. Laird NM, Lange C. The Fundamentals of Modern Statistical Genetics. Springer Science & Business Media; 2010. 226 p.
 2. Thomas DC. Statistical methods in genetic epidemiology. Oxford University Press; 2004. 458 p.
 3. Ziegler A, König IR. A statistical approach to genetic epidemiology: Concepts and Applications. John Wiley & Sons; 2010. 522 p.
+4. Rosner, Bernard. 2015. Fundamentals of Biostatistics. 8th edition. Boston, MA: Cengage Learning.
 
 ## Handouts
 Please see this [link]()
