@@ -1,6 +1,9 @@
 SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 ===============
 
+## [Course Description](https://graduate.mahidol.ac.th/engine/structure/content/info_subj.php?id=SIRE50601&lang=inter)
+Principles of genetics studies of complex and Mendelian disorders in human population, basic concepts in genetic epidemiology; concepts of study design, basic statistical analysis, interpretation, inference, strengths and limitations of study designs; overview of related laboratory techniques, genotyping technology, sequencing technology, concepts of linkage analysis, genetic association studies , genome-wide association studies, next-generation sequencing technologies for genetic studies, analysis of genetic data using computer software, concepts of application of genome technology in personalized medicine and public health
+
 ## Academic Year: 2021
 
 ## Date:  Aug 4 – Nov 30, 2021
