@@ -1,6 +1,6 @@
 # Assignment 2
 
-## Due date: 30 Aug 2021
+## Due date: 8 Sep 2023
 - Publish your writing on Medium & Github Repository 
 ## Learning Objectives
 1. Become familiar with version control using git and exploratory data analysis using R
