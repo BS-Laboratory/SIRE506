@@ -1,13 +1,13 @@
 # Assignment 1
 
-## Due date: 25 Oct 2021
+## Due date: 29 Oct 2023
 
 ## Learning Objectives
 1. Become familiar with version control using git
 2. Become familiar with Markdown
 
 ## Instruction
-Work together to create a MedBIF 2021 cohort resume aiming for future employers job application using markdown to list userful information to be included on your resume. See [how to make a resume guide from Zety](https://zety.com/blog/how-to-make-a-resume) or find other inspirational reference on resume creation.
+Work together to create a MedBIF 2023 cohort resume aiming for future employers job application using markdown to list userful information to be included on your resume. See [how to make a resume guide from Zety](https://zety.com/blog/how-to-make-a-resume) or find other inspirational reference on resume creation.
 
 1. Fork the [Github Repository MedBIF 2021](https://github.com/si-medbif/medbif2022) to your personal github account.
 2. Create a new branch called "[your_firstname]_resume" 
@@ -24,7 +24,4 @@ Work together to create a MedBIF 2021 cohort resume aiming for future employers 
     - Work together, discuss with your friends to decide who to merge **your friend**'s pull request with the main repository. A merges B's. B merges C's, and so on.
 
 
-## Scoring
-1. 50% for proper format of Markdown resume
-2. 50% for correct git tasks
 
