@@ -7,7 +7,7 @@ Principles of genetics studies of complex and Mendelian disorders in human popul
 ## Academic Year: 2024
 
 ## Date:  Aug 19 – Dec 9, 2024
--   [Course Website](https://BS-Laboratory.github.io/SIRE506/)
+-   [Course Website](https://sire506.siriraj.org/)
 -   [Github Repository](https://github.com/BS-Laboratory/SIRE506)
 -   [Handouts]()
 
