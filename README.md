@@ -4,15 +4,12 @@ SIRE 506 Design and Analysis in Genetic Studies of Human Diseases
 ## [Course Description](https://graduate.mahidol.ac.th/engine/structure/content/info_subj.php?id=SIRE50601&lang=inter)
 Principles of genetics studies of complex and Mendelian disorders in human population, basic concepts in genetic epidemiology; concepts of study design, basic statistical analysis, interpretation, inference, strengths and limitations of study designs; overview of related laboratory techniques, genotyping technology, sequencing technology, concepts of linkage analysis, genetic association studies , genome-wide association studies, next-generation sequencing technologies for genetic studies, analysis of genetic data using computer software, concepts of application of genome technology in personalized medicine and public health
 
-## Academic Year: 2021
+## Academic Year: 2024
 
-## Date:  Aug 4 – Nov 30, 2021
--   [Course Website](https://si-medbif.github.io/SIRE506/)
--   [Github Repository](https://github.com/si-medbif/SIRE506)
+## Date:  Aug 19 – Dec 9, 2024
+-   [Course Website](https://sire506.siriraj.org/)
+-   [Github Repository](https://github.com/BS-Laboratory/SIRE506)
 -   [Handouts]()
-
-## Schedule
-[Please check](https://www.dropbox.com/s/ft7ymhhce1iq2qs/SIRE506-Schedule-AY2021.xlsx?dl=0)
 
 ## Course Learning Objectives
 1.	Differentiate mendelian and complex genetic diseases, and explain the factors influencing the disease expression, such as heritability, penetrance, variable expressivity, genetic heterogeneity, phenocopy, pleiotropy. 
@@ -39,19 +36,22 @@ Principles of genetics studies of complex and Mendelian disorders in human popul
 
 ## Scoring
 
-
-* Attendance: 10%
-* Homework: 60%
+* Formative Exam: 20%
+* Homework: 50%
+  - Github Learning Profiles (5%)
+  - Exploratory Data Analysis Report (10%)
+  - Prediction of the Titanic survivor (10%)
+  - Genetic association analysis (10%)
+  - Variant Prioritization (10%)
+  - Overall quality of code – reproducibility (5%)
 * Final Exam: 30%
 
 ## Grading
 
-
 * A > 90%
 * B+ [80-90)
 * B [70-80)
-* C+ [60-70)
-* C < 60%>
+* C < 70
 ## Course coordinator:
 
 Asst. Prof. Dr. Bhoom Suktitipat, MD, PhD  
@@ -60,11 +60,8 @@ Department of Biochemistry, Faculty of Medicine Siriraj Hospital &
 Integrative Computational BioScience Center, Mahidol University
 
 ## Instructors
-* Dr. Harald Grove, PhD (Faculty of Medicine Siriraj Hospital, Mahidol University)
-* Dr. Jakris Eu-ahsunthornwattana, MD, PhD (Faculty of Medicine Ramathibodi Hospital, Mahidol University)
-* Dr. Pimphen Charoen, PhD (Faculty of Tropical Medicine, Mahidol University)
-* Assoc. Prof. Dr. Vardodom Charoensawan, PhD (Faculty of Science, Mahidol University)
-
+* Assoc. Prof. Dr. Vardodom Charoensawan, PhD
+* Dr.Piroon Jenjaroenpong, PhD 
 ## Reference Books
 1. Laird NM, Lange C. The Fundamentals of Modern Statistical Genetics. Springer Science & Business Media; 2010. 226 p.
 2. Thomas DC. Statistical methods in genetic epidemiology. Oxford University Press; 2004. 458 p.
